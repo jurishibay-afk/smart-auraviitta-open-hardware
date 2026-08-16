@@ -4,7 +4,9 @@
 > *Dedicated to Finland, Sweden, Norway, and All Northern Lands • 2026*  
 > **Author & Concept Creator:** Roman Kemov  
 > **License:** Creative Commons CC BY-SA 4.0
+![Älyviitta Head Module](вешка епта.jpg)
 
+![Älyviitta Video Presentation](видео AURAVIITTA.mp4)
 ---
 
 ## 📌 Executive Summary
