@@ -4,7 +4,7 @@
 > *Dedicated to Finland, Sweden, Norway, and All Northern Lands • 2026*  
 > **Author & Concept Creator:** Roman Kemov  
 > **License:** Creative Commons CC BY-SA 4.0
-![Älyviitta Moose Scene](без%20плашек%20чисто%20лучший!.png)
+![Älyviitta Moose Scene](без%20плашек%20чисто%20лучший.png)
 
 ![Älyviitta Head Module](вешк%20епта.jpg)
 
@@ -25,7 +25,7 @@ By replacing passive plastic snow-plow markers (*Auraviitta*) with intelligent 6
   3. *Section 3:* Red Body with LiFePO4 Low-Temp Battery Core (-40°C).
   4. *Section 4:* Protected Radio-Electronics & MCU.
   5. *Section 5:* Polycarbonate Dome with Directional Dual-Side RGB LEDs.
-  6. *Section 6 (Master Top):* 360° Flexible CIGS Solar Sleeve + Grid-EYE Thermal Matrix.
+  6. *Section 6 (Master Top):* 120° Flexible CIGS Solar Sleeve + Grid-EYE Thermal Matrix.
 
 * **Connectivity:** Mesh Network Sub-GHz (868 MHz) + NB-IoT Heartbeat Telemetry.
 * **Smart Operation:** "Green Safety Corridor" at night → "1Hz Pulsing Red Alarm" locally (200m) upon moose detection.
