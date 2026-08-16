@@ -13,7 +13,7 @@
 
 **Älyviitta (Smart Auraviitta)** is an open-source, modular, solar-powered roadside beacon mesh network designed to eliminate wildlife-vehicle collisions (**Hirvikolari / Vision Zero**) on northern highways.
 
-By replacing passive plastic snow-plow markers (*Auraviitta*) with intelligent 6-section modular beacons equipped with thermal sensors (Grid-EYE), Sub-GHz mesh radios, and 360° CIGS solar sleeves, Älyviitta creates a dynamic safety corridor for drivers.
+By replacing passive plastic snow-plow markers (*Auraviitta*) with intelligent 6-section modular beacons equipped with thermal sensors (Grid-EYE), Sub-GHz mesh radios, and 120° CIGS solar sleeves, Älyviitta creates a dynamic safety corridor for drivers.
 
 ---
 
