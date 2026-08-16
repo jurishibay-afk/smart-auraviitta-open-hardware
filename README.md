@@ -9,8 +9,6 @@
 ![Älyviitta Head Module](вешк%20епта.jpg)
 
 
-
-
 ## 📌 Executive Summary
 
 **Älyviitta (Smart Auraviitta)** is an open-source, modular, solar-powered roadside beacon mesh network designed to eliminate wildlife-vehicle collisions (**Hirvikolari / Vision Zero**) on northern highways.
