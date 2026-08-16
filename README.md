@@ -6,7 +6,7 @@
 > **License:** Creative Commons CC BY-SA 4.0
 ![Älyviitta Head Module](вешк%20епта.jpg)
 
-![Älyviitta Video Presentation](видео%20AURAVIITTA.mp4)
+<video src="видео%20AURAVIITTA.mp4" controls width="100%"></video>
 
 
 ---
