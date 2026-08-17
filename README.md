@@ -5,12 +5,11 @@
 > **Author & Concept Creator:** Roman Kemov  
 > **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-![Älyviitta Moose Scene](%D0%BB%D0%BE%D1%81%D1%8C.png)
+![Сцена с лосем](лось.png)
 
-### [▶️ Нажмите сюда, чтобы открыть и посмотреть ВИДЕО (MP4)](видео.mp4)
+### [▶️ Нажмите сюда, чтобы открыть и посмотреть ВИДЕО](видео.mp4)
 
 ![Рендер вешки](вешк%20епта.jpg)
-
 ---
 
 ## 📌 Executive Summary
