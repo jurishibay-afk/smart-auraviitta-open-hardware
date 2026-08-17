@@ -48,10 +48,10 @@ The beacon is a robust cylinder (25mm diameter, 1.2–1.5m length) engineered fo
 
 ## 📊 Telemetry & Autonomy
 
-*   **Heartbeat Telemetry (NB-IoT):** Daily 12:00 status report from MASTER beacons to road authorities (*Väylävirasto / Destia*) via NB-IoT (battery level & LED health), enabling predictive maintenance.
-*   **Autonomous Power (Optional Off-Grid Kit):** For remote locations, solar panels on a separate console above the beacon, a vertical wind generator, and an integrated UPS with LiFePO4 batteries are optionally installed. Base units use standard grid power.
-*   **Autonomy:** Calculated **45–60 days** of continuous operation during *Kaamos* (polar night) without direct sunlight. **The final autonomy will be confirmed via field tests.**
-
+*   
+(NB-IoT):** Daily 12:00 status report from MASTER beacons to road authorities (*Väylävirasto / Destia*) via NB-IoT (battery status, LED health), enabling predictive maintenance.
+*   **100% Self-Powered Design:** Älyviitta is fully autonomous and requires no external power grid or heavy external consoles. It relies entirely on its integrated, low-profile CIGS solar sleeve (Section 6) and internal low-temperature LiFePO4 battery core (Section 3).
+*   **Autonomy:** Calculated **45–60 days** of continuous operation during *Kaamos* (polar night) without direct sunlight. **The final autonomy and battery performance will be confirmed via field tests.**
 ---
 
 ## 💰 Cost Efficiency
