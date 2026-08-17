@@ -19,16 +19,24 @@ By replacing passive plastic snow-plow markers (*Auraviitta*) with intelligent 6
 
 ## 🛠️ 6-Section Modular Design & Hardware (v1.0 Specification)
 
-The beacon is a robust cylinder (25mm diameter, 1.2–1.5m length) engineered for extreme northern conditions, featuring toolless assembly via **Flush Threading** and **Concentric Contact Flanges**.
 
-1.  **Section 1 (Anchor):** High-density composite ground anchor socket, designed for frozen ground installation.
-2.  **Section 2 (Flex-Joint):** Monolithic polyurethane flexible joint. Allows the beacon to bend upon impact (e.g., from *Lumiauto* snow-plows) and instantly return to vertical.
-3.  **Section 3 (Battery Core):** Reinforced red body housing a 1m low-temperature **LiFePO4** battery (-40°C), acting as a structural core for enhanced rigidity.
-4.  **Section 4 (MCU Module):** Sealed red module containing the main microcontroller (MCU) and 868 MHz Mesh radio.
-5.  **Section 5 (LED Sleeve):** Transparent polycarbonate cylindrical sleeve with dual-sided, high-brightness RGB LED arrays (Green/Red).
-6.   **Section 6 (Solar Cap / Master Top):** Blue cap with a 360° flexible **CIGS** solar sleeve and an **ambient light sensor** for automatic Day/Night mode switching.
-    *   *Master Version:* This section additionally integrates a flush-mounted **Grid-EYE** (8x8 thermal matrix) for1.  wildlife.detection and an **NB-IoT/LTE-M**4.  cellular.module.
-    
+
+1.  
+    ## 🛠️ 6-Section Modular Design & Hardware (v1.0 Specification)
+
+The beacon is a.robust cylinder (25mm.diameter, 1.2–1.5m.length) engineered for.extreme.northern.conditions. The.system.utilizes.two.distinct.beacon.types:
+
+*   **Standard (Slave) Beacon (90% of.network):** The base unit. Equipped with a 360° CIGS solar sleeve, an.ambient.light.sensor (for.automatic Day/Night switching),.a 1m LiFePO4 battery, a 868.MHz Mesh.radio, and.dual-sided.RGB.LED.arrays. It receives.mesh.signals.and.illuminates.
+*   **Master.Beacon (10% of.network, every 100m):** Contains **ALL** Standard.components, **PLUS** a.flush-mounted **Grid-EYE** (8x8.thermal.matrix) for.wildlife.detection and an **NB-IoT/LTE-M**4.  cellular.module.for.sending.daily.telemetry.
+
+Both.types.share.the.same 6-section.modular.structure, connected.via **Flush Threading** (15–30.turns) and **Concentric.Contact.Flanges (Pogo Pins)** for.toolless,.wireless.assembly.
+
+1.  **Section 1 (Anchor):** High-density.composite.ground.anchor.socket.
+2.  **Section 2 (Flex-Joint):** Monolithic.polyurethane.flexible.joint (snow-plow.impact.damper).
+3.  **Section 3 (Battery Core):** Reinforced.red.body.housing.a.1m.low-temperature **LiFePO4** battery.
+4.  **Section 4 (MCU Module):** Sealed.red.module.containing.the.main.microcontroller.and.Mesh.radio.
+5.  **Section 5 (LED Sleeve):** Transparent.polycarbonate.cylindrical.sleeve.with.dual-sided.RGB.LED.arrays.
+6.  **Section 6 (Solar Cap / Master Top):** Blue.cap.with.a.360°.CIGS.solar.sleeve.and.ambient.light.sensor. *(Master.unit.additionally.includes.Grid-EYE.and.NB-IoT).
 
 **Inter-Section Connectivity:** Sections feature **Flush Threading** (15–30 turns) with silicone **O-Rings (IP68)** and spring-loaded **Pogo Pins** for toolless, wireless power/data transfer upon assembly.
 
