@@ -6,7 +6,7 @@
 > **License:** Creative Commons CC BY-SA 4.0
 ![Älyviitta Moose Scene](без%20плашек%20чисто%20лучший.png)
 
-![Älyviitta Head Module](вешк%20епта.jpg)
+![Älyviitta Head Module](render.jpg)
 
 
 ## 📌 Executive Summary
