@@ -25,7 +25,7 @@ The beacon is a robust cylinder (25mm diameter, 1.2–1.5m length) engineered fo
 2.  **Section 2 (Flex-Joint):** Monolithic polyurethane flexible joint. Allows the beacon to bend upon impact (e.g., from *Lumiauto* snow-plows) and instantly return to vertical.
 3.  **Section 3 (Battery Core):** Reinforced red body housing a 1m low-temperature **LiFePO4** battery (-40°C), acting as a structural core for enhanced rigidity.
 4.  **Section 4 (MCU Module):** Sealed red module containing the main microcontroller (MCU) and 868 MHz Mesh radio.
-5.  **Section 5 (LED Dome):** Transparent polycarbonate dome with dual-sided, high-brightness RGB LED arrays (Green/Red).
+5.  **Section 5 (LED Sleeve):** Transparent polycarbonate cylindrical sleeve with dual-sided, high-brightness RGB LED arrays (Green/Red).
 6.  **Section 6 (Solar Cap / Master Top):** Blue cap with a 360° flexible **CIGS** solar sleeve.
     *   *Master Version:* This section integrates a flush-mounted **Grid-EYE** (8x8 thermal matrix) for wildlife detection and an **NB-IoT/LTE-M** cellular module.
 
