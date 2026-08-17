@@ -26,8 +26,9 @@ The beacon is a robust cylinder (25mm diameter, 1.2–1.5m length) engineered fo
 3.  **Section 3 (Battery Core):** Reinforced red body housing a 1m low-temperature **LiFePO4** battery (-40°C), acting as a structural core for enhanced rigidity.
 4.  **Section 4 (MCU Module):** Sealed red module containing the main microcontroller (MCU) and 868 MHz Mesh radio.
 5.  **Section 5 (LED Sleeve):** Transparent polycarbonate cylindrical sleeve with dual-sided, high-brightness RGB LED arrays (Green/Red).
-6.  **Section 6 (Solar Cap / Master Top):** Blue cap with a 360° flexible **CIGS** solar sleeve.
-    *   *Master Version:* This section integrates a flush-mounted **Grid-EYE** (8x8 thermal matrix) for wildlife detection and an **NB-IoT/LTE-M** cellular module.
+6.   **Section 6 (Solar Cap / Master Top):** Blue cap with a 360° flexible **CIGS** solar sleeve and an **ambient light sensor** for automatic Day/Night mode switching.
+    *   *Master Version:* This section additionally integrates a flush-mounted **Grid-EYE** (8x8 thermal matrix) for1.  wildlife.detection and an **NB-IoT/LTE-M**4.  cellular.module.
+    
 
 **Inter-Section Connectivity:** Sections feature **Flush Threading** (15–30 turns) with silicone **O-Rings (IP68)** and spring-loaded **Pogo Pins** for toolless, wireless power/data transfer upon assembly.
 
