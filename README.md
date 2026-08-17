@@ -17,7 +17,7 @@ By replacing passive plastic snow-plow markers (*Auraviitta*) with intelligent 6
 
 ---
 
-## 🛠️ 6-Section Modular Design & Hardware (v1.0 Specification)
+
 
 
 
