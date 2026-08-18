@@ -22,13 +22,7 @@
 
 
 
-[![Älyviitta Moose Scene](poster.png)](video.mp4)
 
-### [▶️ Нажмите сюда, чтобы открыть и посмотреть ВИДЕО](video.mp4)
-
----
-
-![Älyviitta Head Module](render.jpg)
 
 
 
