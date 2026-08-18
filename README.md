@@ -5,11 +5,11 @@
 > **Author & Concept Creator:** Roman Kemov  
 > **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-![Сцена с лосем](лось.png)
 
-### [▶️ Нажмите сюда, чтобы открыть и посмотреть ВИДЕО](видео.mp4)
 
-![Рендер вешки](вешк%20епта.jpg)
+
+
+
 ---
 
 ## 📌 Executive Summary
