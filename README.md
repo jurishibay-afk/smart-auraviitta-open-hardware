@@ -60,7 +60,7 @@ For internal connectivity, concentric copper contact rings and spring-loaded Pog
 ——————————
 
 3. Intelligent Operating Modes and Energy Saving
- | Nano Banana: During night and twilight mode when no animals are detected, all beacons glow with a soft green light to form a visible safety corridor and improve road visibility during blizzards and polar nights.
+ During night and twilight mode when no animals are detected, all beacons glow with a soft green light to form a visible safety corridor and improve road visibility during blizzards and polar nights.
 
 When an animal is detected, the nearest Master beacon locks onto the thermal signature defined by a mass over 100 kilograms and a height over 1.2 meters. It broadcasts an alarm via the Mesh network, causing all beacons within a 200 to 500-meter radius to switch to a one-hertz pulsing bright red alarm.
 
