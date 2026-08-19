@@ -70,7 +70,7 @@ When an animal is detected during the day, the system instantly triggers the one
 
 ——————————
 
-4. Telemetry and Heartbeat Self-Diagnostics
+4. Telemetry and  Self-Diagnostics
 
 To eliminate manual inspections by road authorities such as Väylävirasto or Destia, Älyviitta uses an automated self-diagnostic protocol.
 
