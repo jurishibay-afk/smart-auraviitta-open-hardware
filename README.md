@@ -10,7 +10,7 @@ Dedicated to Finland, Sweden, Norway, and All Northern Lands • 2026
 Author & Concept Creator: Roman Kemov
 
 License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-
+![Älyviitta - Moose Warning System](poster.png)
 
 
 
