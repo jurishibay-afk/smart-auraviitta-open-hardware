@@ -15,7 +15,8 @@ License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 ### 📐 Hardware Design & 3D Renders
 <p float="left">
 <img src="render1.jpg" width="48%" />
-
+  <img src="render2.jpg" width="48%" />
+</p>
 
  Technical Specification v1.0
 
