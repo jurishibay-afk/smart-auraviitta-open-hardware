@@ -13,7 +13,7 @@ License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 ![Älyviitta - Moose Warning System](poster.png)
 ### 🎬 [▶️ Click here to watch the Video Presentation (MP4)](vid.mp4)
 ### 📐 Hardware Design & 3D Renders
-
+<p float="left">
 
 
 
