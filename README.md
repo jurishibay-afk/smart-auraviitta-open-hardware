@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/8ae895e7-1fc2-4c36-bce1-d26d2786b1da
 *Figure 1: Close-up of the 6-section optical & sensor head (left). Figure 2: Full-length 3D model with ground anchor (right).*
  Technical Specification v1.0
 
-Älyviitta is an open-source concept for a distributed, wireless mesh network of intelligent roadside beacons acting as an active fence. It is designed for the early warning of drivers about wildlife like moose and reindeer entering the roadway on rural highways, effectively preventing collisions.
+Älyviitta is an open-source concept for a distributed, wireless mesh network of intelligent roadside beacons acting as an active fence. It is designed for the early warning of drivers about wildlife like moose and reindeer entering the roadway on country highways, effectively preventing collisions.
 
 ——————————
 
