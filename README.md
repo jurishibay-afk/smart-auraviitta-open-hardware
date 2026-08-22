@@ -18,11 +18,12 @@ License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 
 
 ### 📐 Hardware Design & 3D Renders
-<p float="left">
-<img src="render1.jpg" width="48%" />
-  <img src="render2.jpg.png" width="48%" />
-</p>
-*Figure 1: Full-length 3D model with ground anchor (left). Figure 2: Close-up of the 6-section optical & sensor head (right).*
+![Figure 1: Full-length 3D model with ground anchor](render1.jpg)
+
+![Figure 2: Close-up of the 6-section optical & sensor head with LEDs](render2.jpg.png)
+
+*Figure 1: Full-length 3D model with ground anchor. Figure 2: Close-up of the 6-section optical & sensor head with LEDs.*
+
 
 ## Technical Specification v1.0
 Älyviitta is an open-source concept for a distributed, wireless mesh network of intelligent roadside beacons acting as an active fence. It is designed for the early warning of drivers about wildlife like moose and reindeer entering the roadway on regional and national highways, effectively preventing collisions.
