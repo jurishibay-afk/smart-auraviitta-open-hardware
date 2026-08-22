@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/8ae895e7-1fc2-4c36-bce1-d26d2786b1da
 ### 📐 Hardware Design & 3D Renders
 <p float="left">
 <img src="render1.jpg" width="48%" />
-  <img src="render2.jpg" width="48%" />
+  <img src="render2.jpg.png" width="48%" />
 </p>
 *Figure 1: Full-length 3D model with ground anchor (left). Figure 2: Close-up of the 6-section optical & sensor head (right).*
 
