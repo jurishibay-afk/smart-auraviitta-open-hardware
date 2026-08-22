@@ -11,8 +11,8 @@ Author & Concept Creator: Roman Kemov
 
 License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 ![Älyviitta - Moose Warning System](poster.png)
-### 🎬 [▶️ Click here to watch the Video Presentation (MP4)](vid.mp4)
-
+### 🎬 Video Presentation
+<video src="vid.mp4" controls width="100%"></video>
 
 
 
