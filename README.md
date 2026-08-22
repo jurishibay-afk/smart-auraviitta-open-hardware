@@ -15,10 +15,8 @@ License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 ![Älyviitta - Moose Warning System](poster.png)
 
 
-### 🎥 Video Presentation
-[![](poster.png)](vid.mp4)
-
-**[▶️ Click to watch the full project presentation (MP4)](vid.mp4)**
+## 🎥 Video Presentation
+<video src="https://github.com/jurishibay-afk/smart-auraviitta-open-hardware/raw/main/vid.mp4" controls width="100%"></video>
 
 
 
