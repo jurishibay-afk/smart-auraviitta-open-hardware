@@ -28,12 +28,7 @@ License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 
 
 
-### 📐 Hardware Design & 3D Renders
-![Figure 1: Full-length 3D model with ground anchor](render1.jpg)
 
-![Figure 2: Close-up of the 6-section optical & sensor head with LEDs](render2.jpg.png)
-
-*Figure 1: Full-length 3D model with ground anchor. Figure 2: Close-up of the 6-section optical & sensor head with LEDs.*
 
 
 ## Technical Specification v1.0
