@@ -19,6 +19,10 @@
 
 
 
+
+
+
+
 🌲 Älyviitta (Smart Auraviitta) — Open Hardware Road Safety Infrastructure
 
 
@@ -41,7 +45,7 @@ https://github.com/user-attachments/assets/7fbd12b2-8f5d-4d57-b5f8-48a9d1745424
 
 
 
-
+https://github.com/user-attachments/assets/a9680daf-9bc8-4f93-8144-9c08eb91fc38
 
 
 
