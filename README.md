@@ -97,7 +97,7 @@ During daytime mode when no animals are present, green LEDs are turned off to co
 
 When an animal is detected during the day, the system instantly triggers the one-hertz pulsing bright red alarm in a local 200-meter zone spanning five beacons in each direction around the entry point.
 
-*(Note on extreme energy efficiency: The system architecture allows for the future implementation of a **Dynamic Green Wave** mode. In this mode, the green safety corridor remains in Deep Sleep and activates only 1 km ahead of an approaching vehicle, turning off immediately after it passes. This is achieved through pre-timed mesh-packet propagation triggered by Super-Master nodes at major road junctions, minimizing battery drain during polar nights).*
+*(Innovation Note — "Dynamic Green Wave" Technology: To achieve maximum energy efficiency during polar nights, the system architecture supports the proprietary **Dynamic Green Wave** algorithm. Rather than illuminating empty highways, the green safety corridor remains in Deep Sleep and dynamically "escorts" the vehicle — illuminating a 1 km zone ahead of the car and extinguishing immediately behind its rear bumper. This intelligent wave is orchestrated via Mesh-radio packets triggered by Super-Master nodes at major road junctions).*
 
 4. Telemetry and  Self-Diagnostics
 
