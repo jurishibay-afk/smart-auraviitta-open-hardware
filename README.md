@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/7fbd12b2-8f5d-4d57-b5f8-48a9d1745424
 
 
 
-https://github.com/user-attachments/assets/a9680daf-9bc8-4f93-8144-9c08eb91fc38
+
 
 
 
@@ -66,7 +66,7 @@ To eliminate blind spots, each Master beacon features an infrared sensor with a 
 
 In addition, a built-in motion sensor works to detect animals, and an ambient light sensor allows the system to seamlessly switch between day and night modes.
 
-——————————
+https://github.com/user-attachments/assets/a9680daf-9bc8-4f93-8144-9c08eb91fc38
 
 2. 6-Section Modular Architecture (Flush Thread)
 
