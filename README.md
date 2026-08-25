@@ -135,6 +135,16 @@ The total infrastructure cost for one kilometer of highway equipped with 100 bea
 
 For comparison, traditional metal or mesh moose fencing typically costs between 30,000 and 50,000 Euros per kilometer.
 
+
+
+## 7. Deployment Roadmap and Target Applications
+
+**Primary Use Case — Autumn Wildlife Activity:** Collision risks increase during the dark autumn months, particularly during the moose rutting season and before persistent snow cover. During this period, Älyviitta can provide active roadside warning without exposure to snowplow impacts.
+
+**Proposed Phase 1 Pilot — Arctic Snowmobile Trails:** Official snowmobile routes in Lapland could provide a controlled environment for initial winter testing of low-temperature operation, Mesh-network reliability, battery performance, thermal detection, and visibility without exposure to heavy road-clearance machinery.
+
+**Proposed Phase 2 — Public Roads:** Deployment on regional and national highways should follow successful field validation, including dedicated testing of the Flex-Joint, enclosure, optical section, and complete system under snowplow-generated snow and ice loads.
+
 ——————————
 
 Open for international engineering collaboration, university research, and municipal road safety pilots.
