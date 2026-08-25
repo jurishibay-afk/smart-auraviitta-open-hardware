@@ -63,7 +63,7 @@ Standard Slave Beacons make up 90% of the network and are spaced every 20 meters
 Master Beacons make up 10% of the network and are placed every 100 meters at every fifth pole. They are equipped with thermal imaging sensor units to detect animals approaching from the forest.
 
 To eliminate blind spots, each Master beacon features an infrared sensor with a 120-degree field of view directed toward the forest edge. The 100-meter spacing ensures that the detection zones of adjacent Master beacons overlap by 50 percent, providing complete redundancy.
-
+To prevent orientation errors during field installation, each Master beacon features a high-visibility directional alignment marker. This allows road maintenance personnel to quickly orient the thermal sensor toward the forest edge and away from the roadway.
 In addition, a built-in motion sensor works to detect animals, and an ambient light sensor allows the system to seamlessly switch between day and night modes.
 
 https://github.com/user-attachments/assets/a9680daf-9bc8-4f93-8144-9c08eb91fc38
