@@ -88,7 +88,25 @@ Section 1 is the anchor, consisting of a pointed high-strength composite ground 
 
 For internal connectivity, concentric copper contact rings and spring-loaded Pogo Pins are embedded inside the threaded ends between sections 6, 5, 4, and 3. Assembly is entirely toolless, simply screwing together by hand to complete the circuit. Waterproofing is guaranteed by silicone O-rings rated to IP68.
 
-——————————
+### Hardware & Electronics Split: Master vs. Slave Beacons
+
+To optimize deployment costs and maintain high network reliability, the Älyviitta system uses an asymmetric architecture where 90% of the nodes are lightweight, low-cost units, and 10% act as intelligent local hubs.
+
+#### 1. Slave Beacon (Standard Node — 90% of Network)
+Designed for ultra-low power consumption and durability at a minimal BOM cost (~€20).
+* **Core Processing:** Low-power MCU (e.g., ESP32-C3 or STM32L series).
+* **Communication:** Sub-GHz 868 MHz RF transceiver for Mesh-network routing.
+* **Optics & Signaling:** Bidirectional high-lumen RGB LED driver for green/red dynamic wave indication.
+* **Power Management:** Integrated LiFePO4 battery charge controller optimized for sub-zero temperatures (-40°C).
+* **Role:** Passive execution unit; receives operational commands via Mesh and lights up accordingly without heavy local processing.
+
+#### 2. Master Beacon (Local Hub — 10% of Network)
+Acts as the "eyes and brain" of a 100-meter roadside sector (~€41 BOM).
+* **Core Processing:** High-performance multi-core processor dedicated to real-time thermal sensor data filtering and AI-lite logic.
+* **Vision & Detection:** Grid-EYE 8x8 thermal sensor array (120-degree FOV with alignment Poka-Yoke marker) combined with a PIR motion sensor and ambient light detector.
+* **Cellular Telemetry:** Built-in NB-IoT / LTE-M cellular modem with eSIM for cloud integration and automated state-reporting to the national transport management system (e.g., Digitraffic).
+* **Communication:** Sub-GHz 868 MHz RF transceiver (Master Mesh node).
+* **Logic & Firmware:** Executes the *Dynamic Green Wave* routing algorithm and the daily *Heartbeat* self-diagnostics protocol.
 
 3. Intelligent Operating Modes and Energy Saving
  During night and twilight mode when no animals are detected, all beacons glow with a soft green light to form a visible safety corridor and improve road visibility during blizzards and polar nights.
