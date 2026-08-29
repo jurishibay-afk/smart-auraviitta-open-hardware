@@ -135,7 +135,16 @@ The Master beacon aggregates this data and transmits a concise report to the clo
 
 Operators at the control center can view exact coordinates on a map, allowing a technician to drive to the precise location, replace a single module within 30 seconds, and eliminate unnecessary operational costs.
 * **Directional Threat Focus (Single-Side Alarm):** When a Master beacon пеленгует/detects an animal at the clearing edge, the critical Red/Orange hazard alert activates **exclusively on the side of the road where the threat originates**. This instinctively directs the driver’s visual attention straight toward the danger zone while decelerating, avoiding split focus during emergency braking.
+### Event-Driven Power Management & Sectorized Threat Tracking
 
+To ensure year-round energy autonomy during Arctic polar nights (*Kaamos*) and eliminate light pollution, Älyviitta operates on an **Event-Driven Standby Architecture**:
+
+1. **Ultra-Low-Power Deep Sleep:** When no wildlife is detected, all LED arrays remain 100% OFF. Master Beacons continuously monitor the forest edge in a micro-amp standby mode, while Slave Beacons stay in low-power Mesh listening mode.
+2. **Localized Threat Epicenter (Red Zone):** Upon detecting an animal, the Master Beacon triggers a high-visibility hazard alert:
+   * **Epicenter Alert:** ~10 beacons directly at the animal's entry point light up in **RED** exclusively on the origin side of the road.
+   * **Boundary Flanks:** ~20 beacons in both directions (approaching and departing traffic zones) illuminate in **GREEN**, creating a sharp visual contrast that instantly pinpoints the exact threat location for the driver.
+3. **Dynamic Cross-Road Tracking:** As the animal crosses the roadway into the opposite forest, the Mesh network dynamically shifts the Red Epicenter and Green Boundary sectors across the road in real-time, matching the animal's trajectory.
+4. **Instant Standby Reset:** Once the animal moves beyond the detection radius into the forest, the entire sector immediately extinguishes its LEDs and reverts to ultra-low-power standby mode.
 
 5. Survival Physics in Northern Conditions
 
