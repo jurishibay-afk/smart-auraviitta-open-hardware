@@ -41,7 +41,7 @@ License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0
 ![Älyviitta - Moose Warning System](poster.png)
 
 
-https://github.com/user-attachments/assets/7fbd12b2-8f5d-4d57-b5f8-48a9d1745424
+
 
 
 
