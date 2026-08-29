@@ -131,7 +131,7 @@ The Master beacon aggregates this data and transmits a concise report to the clo
 
 Operators at the control center can view exact coordinates on a map, allowing a technician to drive to the precise location, replace a single module within 30 seconds, and eliminate unnecessary operational costs.
 * **Directional Threat Focus (Single-Side Alarm):** When a Master beacon пеленгует/detects an animal at the clearing edge, the critical Red/Orange hazard alert activates **exclusively on the side of the road where the threat originates**. This instinctively directs the driver’s visual attention straight toward the danger zone while decelerating, avoiding split focus during emergency braking.
-——————————
+
 
 5. Survival Physics in Northern Conditions
 
