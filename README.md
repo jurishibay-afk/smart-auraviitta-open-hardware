@@ -87,7 +87,7 @@ Section 2 is a flexible insert containing a monolithic polyurethane joint-damper
 Section 1 is the anchor, consisting of a pointed high-strength composite ground socket designed for driving directly into frozen soil.
 
 For internal connectivity, concentric copper contact rings and spring-loaded Pogo Pins are embedded inside the threaded ends between sections 6, 5, 4, and 3. Assembly is entirely toolless, simply screwing together by hand to complete the circuit. Waterproofing is guaranteed by silicone O-rings rated to IP68.
-
+* **Full Base Functionality:** Every Master Beacon includes all hardware, RGB LED drivers, and Mesh-routing capabilities of a standard Slave Beacon, plus the additional thermal sensor array, advanced processor, and cellular gateway.
 ### Hardware & Electronics Split: Master vs. Slave Beacons
 
 To optimize deployment costs and maintain high network reliability, the Älyviitta system uses an asymmetric architecture where 90% of the nodes are lightweight, low-cost units, and 10% act as intelligent local hubs.
