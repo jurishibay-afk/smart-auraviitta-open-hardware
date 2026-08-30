@@ -156,7 +156,9 @@ For comparison, traditional metal or mesh moose-fencing typically costs **€30,
 **Proposed Phase 1 pilot — Arctic snowmobile trails:** official snowmobile routes in Lapland could serve as a controlled environment for initial winter testing of cold-temperature operation, mesh reliability, battery performance, thermal detection, and visibility — without heavy road-construction equipment involved.
 
 **Proposed Phase 2 — public roads:** deployment on regional and national highways should follow successful field validation, including dedicated tests of the flex joint, housing, optical section, and full system under snow/ice loading from plowing equipment — and completion of the outstanding validations listed in the Risk Mitigation table above.
-
+#### Benchmark Comparison: ADDWS (Sweden, Road 108) vs. Älyviitta
+* **Trafikverket ADDWS Pilot:** Proven highly effective (66% reduction in wildlife-vehicle collisions) using PTZ cameras, radars, and VMS signs. However, deployment cost was ~€300,000 for a single point-based fauna passage.
+* **Älyviitta Positioning:** Designed as a complementary, highly scalable **linear coverage layer** for long un-fenced road corridors where point-based camera/radar setups are economically unviable.
 ---
 
 Open for international engineering collaboration, university research, and municipal-level road-safety pilot projects.
