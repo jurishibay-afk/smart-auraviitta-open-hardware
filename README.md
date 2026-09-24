@@ -8,7 +8,7 @@
 ![Älyviitta Exploded View](alyviitta-exploded-view-en.png.png)
 **Pohjoinen Aloite (Northern Initiative)**
 Dedicated to Finland, Sweden, Norway, and all Nordic lands • 2026
-
+ **[Download Älyviitta Technical Concept (PDF)](docs/alyviitta-technical-concept-en.pdf)**
 **Concept author and creator:** Roman Kemov
 **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 ![Älyviitta - Moose Warning System](poster.png)
