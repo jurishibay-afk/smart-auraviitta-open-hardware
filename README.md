@@ -5,7 +5,7 @@
 
 
 # 🌲 Älyviitta (Smart Auraviitta) — Open Hardware Road Safety Infrastructure
-![Älyviitta Exploded View]alyviitta-exploded-view-en.png
+![Älyviitta Exploded View](alyviitta-exploded-view-en.png.png)
 **Pohjoinen Aloite (Northern Initiative)**
 Dedicated to Finland, Sweden, Norway, and all Nordic lands • 2026
 
