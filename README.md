@@ -13,7 +13,7 @@
 Dedicated to Finland, Sweden, Norway, and all Nordic lands • 2026
 
 
- **[Download Älyviitta Technical Concept (PDF)](docs/alyviitta-technical-concept-en.pdf)**
+ **[Download Älyviitta Technical Concept (PDF)]alyviitta-technical-concept-en.pdf)**
 
  
 **Concept author and creator:** Roman Kemov
